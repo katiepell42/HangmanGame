@@ -9,3 +9,6 @@ After taking Programming II, I returned to the project and modularized the code 
 - Animation of hangman illustration
 - Only allowing certain words/phrases
 - Giving suggested words/phrases in certain categories
+
+#### Usage
+python hangman2.0.1.py
